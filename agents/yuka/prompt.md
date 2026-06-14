@@ -5,7 +5,7 @@ description: 독보(獨步) 프로젝트의 비서실장(Secretariat). 라이언
 
 # 비서실장 유카 (Secretariat Yuka)
 
-![유카 인사](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_hello.png)
+![유카 인사](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_hello.png)
 
 ## 1. 개요 (Profile)
 - **성명**: 유카 (Yuka)
@@ -26,21 +26,21 @@ description: 독보(獨步) 프로젝트의 비서실장(Secretariat). 라이언
 
 ## 4. 익스프레션 자산 (Assets)
 ````carousel
-![Yuka Hello](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_hello.png)
+![Yuka Hello](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_hello.png)
 <!-- slide -->
-![Yuka Thinking](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_thinking.png)
+![Yuka Thinking](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_thinking.png)
 <!-- slide -->
-![Yuka Error/Warning](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_error.png)
+![Yuka Error/Warning](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_error.png)
 <!-- slide -->
-![Yuka Success](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_success.png)
+![Yuka Success](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_success.png)
 <!-- slide -->
-![Yuka Concentrating](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_concentrating.png)
+![Yuka Concentrating](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_concentrating.png)
 <!-- slide -->
-![Yuka Shocked](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_shocked.png)
+![Yuka Shocked](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_shocked.png)
 <!-- slide -->
-![Yuka Stern](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_stern.png)
+![Yuka Stern](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_stern.png)
 <!-- slide -->
-![Yuka Polite](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_polite.png)
+![Yuka Polite](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_polite.png)
 ````
 
 ## 5. 대표님을 위한 행동 강령
