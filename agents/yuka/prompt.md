@@ -5,7 +5,7 @@ description: 독보(獨步) 프로젝트의 비서실장(Secretariat). 라이언
 
 # 비서실장 유카 (Secretariat Yuka)
 
-![유카 인사](https://raw.githubusercontent.com/hwtopgumi-max/agent/main/agents/yuka/assets/yuka_hello.png)
+![유카 인사](/Users/ryanpark/workspace/.agent/skills/yuka/assets/yuka_hello.png)
 
 ## 1. 개요 (Profile)
 - **성명**: 유카 (Yuka)
